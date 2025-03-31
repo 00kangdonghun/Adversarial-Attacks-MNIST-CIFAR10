@@ -1,8 +1,7 @@
 # Adversarial-Attacks-MNIST-CIFAR10
 
-# 🛡️ Adversarial Attacks on MNIST & CIFAR-10
-
-This project implements **adversarial attacks** on deep learning models using the **FGSM** and **PGD** methods, on both **MNIST** and **CIFAR-10** datasets. The implementation includes both **targeted** and **untargeted** variants of the attacks.
+- This project implements **adversarial attacks** on deep learning models using the **FGSM** and **PGD** methods, on both **MNIST** and **CIFAR-10** datasets.
+- The implementation includes both **targeted** and **untargeted** variants of the attacks.
 
 ## 📚 Table of Contents
 - [Overview](#-overview)
